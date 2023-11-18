@@ -41,13 +41,13 @@ print('Men hozirda "PYTHON" \nDasturlash tilini o\'rganmoqdaman, \nBu dastur men
 #print("Mening ismim Jasurbek")
 
 # Keyingi mashqlar 
-#mehmonlar = ('Ahror', 'Sulton', 'Ulug\'bek', 'Bobur', 'Murodxon', 'G\'ofurjon',)
-#for mehmon in mehmonlar: 
-    #print("Salom", mehmon)
-    #print('Yangi navbatdan $ oshga menham hudo hohlasa qo\'shilaman', mehmon)
+mehmonlar = ('Ahror', 'Sulton', 'Ulug\'bek', 'Bobur', 'Murodxon', 'G\'ofurjon',)
+for mehmon in mehmonlar: 
+    print("Salom", mehmon)
+    print('Yangi navbatdan $ oshga menham hudo hohlasa qo\'shilaman', mehmon)
     
 
-# mehmonlar = ('Ahror', 'Sulton', 'Ulug\'bek', 'Bobur', 'Murodxon', 'G\'ofurjon',)
-# for mehmon in mehmonlar: 
+#mehmonlar = ('Ahror', 'Sulton', 'Ulug\'bek', 'Bobur', 'Murodxon', 'G\'ofurjon',)
+#for mehmon in mehmonlar: 
     #print(f"Hurmatli {mehmon}, sizni 15 noyabr kuni oshga taklif qilamiz")
     #print("Hurmat bilan, Group Sinfdoshlar")
